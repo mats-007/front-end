@@ -1,0 +1,54 @@
+h3{
+    font-size: 14px;
+    color: #282828;
+    font-weight: 300;
+}
+
+.color-gradiente{
+    padding-bottom: 29px;
+    background: rgba(184,37,20,1);
+    background: -moz-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(184,37,20,1)), color-stop(47%, rgba(214,52,30,1)), color-stop(70%, rgba(240,47,23,1)), color-stop(100%, rgba(240,47,23,1)));
+    background: -webkit-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    background: -o-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    background: -ms-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
+}
+
+.card{
+    height: 182px;
+}
+
+
+.title{
+    color: white;
+    font-size: 20px;
+    margin-left: 54px;
+}
+
+#idiomas  {
+    background-color:#eee;
+}
+
+#idiomas .fas {
+    font-size: 80px;
+    color: white;
+}
+
+#idiomas .card {
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+    height: 182px;
+}
+#idiomas .card-idiomas{
+    height: 182px;
+    border-radius: 15px;
+}
+
+#idiomas .card-idioma {
+    border-radius: 15px;
+    
+}
+

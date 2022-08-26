@@ -1,0 +1,17 @@
+#formacion h2, h4{
+    color: #E20000;;
+}
+
+#formacion h3{
+    font-size: 24px;
+}
+
+#formacion #ap-logo{
+    background-color: grey;
+    width: 72px;
+
+}
+
+#formacion .box{
+    margin-bottom: 64px;
+}
